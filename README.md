@@ -1,21 +1,21 @@
 # Git Basic Class
 
-# H1
+--------- 첫번째 커밋
 
-## H2
+## 나의 기본 정보
 
-### H3
+>
 
-- list
+- **김상우**
+- _25_
+- [개발자](htpps://naver.com)
 
-* list
+---
 
-1. list
-
-리눅스 **명령어** 실습중 'man' 이라는 명령어?
-
-```bash
-echo "HI" >> README.md
-```
-
-[네이버 접속하기](http://naver.com)
+수정
+git status
+git diff
+git add
+git status
+git commit
+git log
